@@ -228,4 +228,4 @@ bot.on("message", async message => {
     cooldown.delete(message.author.id)
   }, cdseconds * 1000 )
 });
-bot.login("NDUwMDg2NDc3OTI2NDk4MzE0.DeuHOA.fzRUv-ahNatkjSlNaNAuGSPuTck");
+bot.login("BOT_TOKEN");
